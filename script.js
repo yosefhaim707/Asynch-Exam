@@ -76,3 +76,6 @@ multiplyByTwo(3)
     .then((finalResult) => console.log(finalResult))
     .catch((error) => console.log(error))
     .finally(() => console.log('Kol Hamahalot'));
+
+
+const sum = 0;
